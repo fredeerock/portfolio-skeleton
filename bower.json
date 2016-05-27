@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-skeleton",
+  "homepage": "https://github.com/fredeerock/portfolio-skeleton",
+  "authors": [
+    "Derick Ostrenko <dostrenko@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
+  },
+  "install" : {
+  "path" : "vendor"
+}
+}
